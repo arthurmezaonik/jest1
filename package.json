@@ -18,5 +18,6 @@
   "homepage": "https://github.com/arthurmezaonik/jest1#readme",
   "devDependencies": {
     "jest": "^27.1.0"
-  }
+  },
+  "dependencies": {}
 }
